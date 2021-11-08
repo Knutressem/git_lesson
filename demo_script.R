@@ -1,10 +1,8 @@
 # Headline
 
-x <- rnorm(200)
-y <- rnorm(300)
+x <- rnorm(100)
+y <- rnorm(100)
 
 # Important feaures
 
 # New feature
-
-# Crazy stuff
